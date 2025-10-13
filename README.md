@@ -1,7 +1,5 @@
 🧩 Remote Tester Pro V4 — Patch Notes
 
-@everyone @here
-
 🛠️ Changes
 
 Removed: “View Source” option — it provided no functional use and has been deprecated.

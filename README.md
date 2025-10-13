@@ -1,3 +1,18 @@
+Remote Tester Pro V4.5 — Update Log
+
+[Added]
+Remote Stresser module for advanced remote load testing and verification.
+
+[Improved]
+Optimized scan efficiency and GUI responsiveness.
+Refined stress test safety handling to prevent false failures.
+[Fixed]
+
+Minor UI alignment bugs and text clipping.
+Occasional false “Success” display during rapid-fire tests.
+
+
+
 🧩 Remote Tester Pro V4 — Patch Notes
 
 🛠️ Changes

@@ -1,5 +1,4 @@
 ⚡ Remote Tester Pro V4.6 – Patch Notes
-@everyone @here
 
 ADDED / IMPROVED:
 

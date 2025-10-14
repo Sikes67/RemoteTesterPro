@@ -1,3 +1,31 @@
+⚡ Remote Tester Pro V4.6 – Patch Notes
+@everyone @here
+
+ADDED / IMPROVED:
+
+✅ Optimized stress/hammer test with proper ✅ success / ❌ fail counting and fade-out finish.
+
+⚠️ Now accurately counts fails for unresponsive, blocked, or unhammerable remotes.
+
+🛡 Checks for unsafe remotes and shows warnings when stress test attempts fail.
+
+🔍 Improved search filter and automatic remote scanning.
+
+🛠 Safe error handling for FireServer and InvokeServer.
+
+🖥 GUI enhancements: draggable window and proper layout.
+
+
+Stress Test Behavior Improvements:
+
+1. Fail counter added for unresponsive remotes:
+
+RemoteFunction: InvokeServer wrapped in pcall with error detection. Timeout or error counts as fail.
+
+RemoteEvent: FireServer wrapped in pcall. Fail counted if repeated fires do not succeed or throw errors.
+
+--------------------------------------
+
 Remote Tester Pro V4.5 — Update Log
 
 [Added]
@@ -11,7 +39,7 @@ Refined stress test safety handling to prevent false failures.
 Minor UI alignment bugs and text clipping.
 Occasional false “Success” display during rapid-fire tests.
 
-
++------+-----++---------------------
 
 🧩 Remote Tester Pro V4 — Patch Notes
 
@@ -33,7 +61,7 @@ Remote Stress Mode: A testing feature that will rapidly fire or invoke remotes f
 
 
 
-
+--------------------_-----------------
 
 
 

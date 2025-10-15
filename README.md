@@ -1,4 +1,4 @@
-# ⚡ Remote Tester Pro V4.7
+# ⚡ Remote Tester Pro V4.8
 
 A modern remote testing utility for Roblox exploiters.  
 Built to scan, invoke, fire, and stress-test **RemoteEvents** and **RemoteFunctions** with a full GUI, popup messages, and smart safety checks.

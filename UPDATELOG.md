@@ -1,3 +1,25 @@
+⚡ Remote Tester Pro V4.7 - Patch Notes
+
+🆕 New Features & Fixes:
+
+Hybrid Remote Detection:
+
+Added a listening system that detects newly added RemoteEvent and RemoteFunction instances automatically.
+
+Ensures no remotes are missed, even if created after the script starts.
+
+Optimized to prevent lag by avoiding constant rescans.
+
+
+Caching & Performance:
+
+Newly added remotes are cached to prevent duplicate UI elements.
+
+Reduces unnecessary processing while keeping detection accurate.
+
+--------------------------------------
+
+
 ⚡ Remote Tester Pro V4.6 – Patch Notes
 
 ADDED / IMPROVED:

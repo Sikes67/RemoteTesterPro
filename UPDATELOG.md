@@ -1,3 +1,34 @@
+⚡ Remote Tester Pro V4.8 - GUI Update
+______________________
+Adaptive Layout:
+
+Automatically adjusts to PC or Mobile screens for perfect sizing.
+
+_______________
+Blue Neon Theme
+
+Sleek modern look applied to buttons, progress bars, popups, and title bar.
+
+____________________
+Scrollable Remote List:
+
+Fully visible remotes on any device.
+Smooth filtering with the search box.
+
+_______________________
+Stress Test Interface:
+
+Progress bars and counters styled with neon highlights.
+Running label fades out smoothly at completion.
+
+____________________
+General Styling:
+
+Rounded corners and highlighted selections for better visual clarity.
+
+
+
+-----------------------------------
 ⚡ Remote Tester Pro V4.7 - Patch Notes
 
 🆕 New Features & Fixes:

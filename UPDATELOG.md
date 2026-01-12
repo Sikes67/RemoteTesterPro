@@ -1,3 +1,25 @@
+⚡ Remote Tester Pro V4.9 – Update Log
+Hey everyone! Here’s what’s new in Remote Tester Pro V4.9:
+🆕 Upgraded Detection System
+Full multi-root scanning: ReplicatedStorage, Workspace, Players, StarterGui, and StarterPlayer.
+Real-time detection of new remotes added during gameplay.
+Automatic detection for renamed or reparented RemoteEvents and RemoteFunctions.
+Prevents duplicate entries with smarter caching.
+🔹 Improved Performance & Reliability
+Faster rescanning with a 3-second periodic scan for hidden or delayed remotes.
+Handles fallback for objects that fail GetDescendants.
+Reduced chance of missing remotes in complex games.
+🔹 GUI & UX Enhancements
+Clean, draggable main window stays responsive across all devices.
+Search box updated for real-time filtering of remotes.
+Fire / Invoke buttons work safely with clear popups.
+⚡ Bug Fixes
+Fixed issues with remote boxes not updating on rename or reparent.
+Fixed rare cases where delayed remotes wouldn’t appear in the list.
+
+
+--------------------------------------
+
 ⚡ Remote Tester Pro V4.8 - GUI Update
 ______________________
 Adaptive Layout:

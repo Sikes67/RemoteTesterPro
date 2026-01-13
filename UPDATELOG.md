@@ -1,3 +1,22 @@
+🔥 Remote Tester Pro v4.9.1 — Patch Notes
+🚀 Major Additions
+Effect Intelligence System (NEW)
+Remotes are now analyzed by behavior, not just name
+Detects high-impact remotes (teleports, role changes, admin actions, data edits)
+Automatically flags “interesting” remotes instead of dumping everything
+High-Impact Highlighting
+Suspicious or powerful remotes are visually prioritized in the GUI
+Makes hidden / dangerous remotes stand out instantly
+🧠 Detection Improvements
+Duplicate Remote Filtering
+Prevents the same remote from appearing multiple times
+Cleaner list, no spam, no confusion
+Deep Hierarchy Coverage
+Scans non-obvious locations where devs hide remotes
+Catches remotes nested inside folders, modules, and systems
+
+
+----------------------------------
 ⚡ Remote Tester Pro V4.9 – Update Log
 Hey everyone! Here’s what’s new in Remote Tester Pro V4.9:
 🆕 Upgraded Detection System

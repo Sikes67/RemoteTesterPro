@@ -1,3 +1,49 @@
+⚡ Remote Tester Pro — V4.9.2 Update Log
+🚀 New & Upgraded Features
+🧠 Smart Impact System V2
+More accurate “Effect Intelligence” scoring
+Tracks both value changes + attribute changes
+Impact now builds over time instead of resetting
+🎯 Visual Impact Indicators
+🟢 Green = very powerful / game-changing remote
+🟡 Yellow = medium impact
+⚪ White = low / no impact
+🔔 Better Notifications
+Clearer popups
+Better color feedback:
+Cyan = Success
+Blue = Warning
+Red = Error
+Impact score now shows directly in Fire/Invoke messages
+🔎 Stronger Detection
+Improved hybrid scan + live listener
+More reliable discovery in:
+ReplicatedStorage
+Workspace
+Players
+StarterGui
+StarterPlayer
+Better tracking when remotes move or are created
+📱 UI Improvements
+More mobile-friendly scaling
+Smoother dragging
+Cleaner scrolling list
+Faster search filter
+Better selection highlighting
+⚙️ Performance Fixes
+Less lag from scanning
+Better memory handling
+Fewer false detections
+More stable background updates
+🔥 Core Tech (advanced)
+Effect-driven ranking system enhanced
+Uses:
+ValueBase.Changed
+Attribute change signals
+Descendant monitoring
+Weak-key caching
+
+------------------------------------
 🔥 Remote Tester Pro v4.9.1 — Patch Notes
 🚀 Major Additions
 Effect Intelligence System (NEW)
